@@ -1,0 +1,43 @@
+[HIT FED]
+
+mail - https://hitmail.hit.ac.il/owa/
+detailed study plan - https://docs.google.com/document/d/1qJRvwCK0dmmVusGAZOU8jLZ0S940nSJPy0JVhGHrnVU/pub
+
+blog - http://lifemichael.com/moodle/course/index.php?categoryid=13
+youtube channel - https://www.youtube.com/user/lifemichael/playlists?sort=dd&view=1&shelf_id=0
+
+course moodle - http://lifemichael.com/moodle/course/view.php?id=39
+
+google plus group and community - https://plus.google.com/communities/116311805373410481202
+https://plus.google.com/communities/116311805373410481202/stream/9a932a55-939c-4fc5-a898-308f3f782d47
+
+course moodle - http://lifemichael.com/moodle/course/view.php?id=28
+
+[TODO] commit scuko!
+[TODO] install MAMP
+[TODO] learn html tags
+[TODO] view and write code as in videos
+HTML Table Tags
+Tag	Description
+<table>	Defines a table
+<th>	Defines a header cell in a table
+<tr>	Defines a row in a table
+<td>	Defines a cell in a table
+<caption>	Defines a table caption
+<colgroup>	Specifies a group of one or more columns in a table for formatting
+<col>	Specifies column properties for each column within a <colgroup> element
+<thead>	Groups the header content in a table
+<tbody>	Groups the body content in a table
+<tfoot>	Groups the footer content in a table
+[introduction to procedural prograaming - no need can do]
+[mock input so now]
+read on xhtml [do assignments , no need to submit so far]
+go over : http://www.abelski.com/courses/procedural/simple_variables.pdf
+
+[NOTES]
+webservice is used by applications
+website by ppl
+<head> will include title and js scripts
+<body> might include images
+[SAMPLES]
+http://lifemichael.com/temp/hellofed.html
